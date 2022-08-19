@@ -3,9 +3,9 @@
 
 In this automation test I used WebDriverIO with Mocha framework for my tests.
 
-In my second test i want to check if our "Cart" button is displayed on the page.(**Test Passed**)
-
 In my first test I want to test if the main page is loaded correctly with the page title.(**Test Passed**)
+
+In my second test i want to check if our "Cart" button is displayed on the page.(**Test Passed**)
 
 In my third test I want to check if "Genius" button work correctly with page title.(**Test Passed**)
 
